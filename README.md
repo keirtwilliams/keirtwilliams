@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Keirt William Gemperle
+#  Hi, I'm Keirt William Gemperle
 
-🎓 I'm a student currently learning Web Development<👨‍💻>.  
-💡 I use this space to document my progress and continuously improve my skills.  
+ I'm a student currently learning Web Development<👨‍💻>.  
+ I use this space to document my progress and continuously improve my skills.  
 
 ---
 
-### 🛠️ My Skills
+###  My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,notion)](https://skillicons.dev)
